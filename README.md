@@ -18,7 +18,7 @@ standard quick "warm-up" print at the beginning of each session.
 The UM1 version was promptly and humorously contributed by a gracious
 anonymous user -- see our discussion at the above URL.
 
-What this thing does is lay down a concentric set of rings, 150 mm
+What this thing does is it lays down a concentric set of rings, 150 mm
 diameter, in a single .1 mm layer.  When your printer is calibrated
 correctly, you'll see these rings' edges touching, or nearly so.
 Glass too high means you mash the glass into the nozzle and get little
@@ -26,10 +26,10 @@ or no plastic, glass too low means you get dribbles.
 
 You'll quickly get good at twiddling the bed height thumbscrews while
 it's slowly circling; your goal is to make the rings nice and even all
-the way around; see the example photos in this repository or in the
-discussion thread.
+the way around.  See the photos in this repository or in the
+discussion thread for some examples.
 
 
-Steve Traugott
+Steve Traugott  
 https://github.com/stevegt
 
